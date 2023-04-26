@@ -81,7 +81,6 @@ make
 ./${project_name}
 EOF
 
-
 # Create CMakeLists.txt file
 cat >CMakeLists.txt <<EOF
 cmake_minimum_required(VERSION 3.5)
